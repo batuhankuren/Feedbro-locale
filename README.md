@@ -1,3 +1,5 @@
+I wanted to do something.
+Thanks to Google AI Studio.
 # Turkish language for [Feedbro](https://nodetics.com/feedbro/ "Go to Feedbro Project homepage")
 
 You can download Feedbro at: https://nodetics.com/feedbro/
