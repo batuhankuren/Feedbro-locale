@@ -13,4 +13,5 @@ go the button in the "English (en_US) (default)"
 Select Turkish (tr_TR)
 
 In the future, use the "Update Locale" button in the application settings to receive updates.
+
 <img width="1904" height="1591" alt="resim" src="https://github.com/user-attachments/assets/db3ad641-9711-407f-886c-b6aafc6f4497" />
