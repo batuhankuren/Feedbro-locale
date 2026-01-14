@@ -5,7 +5,7 @@ You can download Feedbro at: https://nodetics.com/feedbro/
 Click in the icon of Feedbro go Options / Settings -> User interface language -> Import locale -> URL address of the Feedbro Locale (JSON-file): 
 paste the following link:
 
-https://raw.githubusercontent.com/Blueddo/Feedbro-locale/master/feedbro-locale-el_GR.json
+[https://raw.githubusercontent.com/Blueddo/Feedbro-locale/master/feedbro-locale-el_GR.json](https://raw.githubusercontent.com/batuhankuren/Feedbro-locale/refs/heads/main/feedbro-locale-el_TR.json)
 
 go the button in the "English (en_US) (default)"
 Select Turkish (tr_TR)
