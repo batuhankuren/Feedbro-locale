@@ -14,4 +14,5 @@ Select Turkish (tr_TR)
 
 In the future, use the "Update Locale" button in the application settings to receive updates.
 
-<img width="1904" height="1591" alt="resim" src="https://github.com/user-attachments/assets/db3ad641-9711-407f-886c-b6aafc6f4497" />
+
+<img width="1904" height="1591" alt="Screenshot 2026-01-15 at 01-22-52 Feedbro - Options_cleaned" src="https://github.com/user-attachments/assets/0057a8b2-c420-4fd3-aa25-223295053a1a" />
